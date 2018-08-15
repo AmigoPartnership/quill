@@ -264,6 +264,7 @@ function isLine(node) {
     'header',
     'iframe',
     'li',
+    'media,
     'main',
     'nav',
     'ol',
